@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Database files
+db.sqlite
+
+# Logs and temporary files
+*.log
+*.pyc
+__pycache__/
+
+# Development environment dependencies
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+*.pyo
+
+# virtual environment files
+flask_env/
